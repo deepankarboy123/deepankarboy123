@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepankar Gupta,
-     2nd year CSIT student at SOA ITER university, Bhuwneshwar.
+     CSIT student at SOA ITER university, Bhubaneshwar.
 - 👀 I’m interested in web development and robotics.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m currently looking to collaborate on web developmeant projects and internships.
